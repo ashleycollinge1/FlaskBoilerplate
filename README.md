@@ -1,4 +1,4 @@
-# Fkask Boilerplate
+# Flask Boilerplate
 
 Application which sets up the following:
 * Blueprints
@@ -9,3 +9,4 @@ Application which sets up the following:
 * basic database setup (sqlalchemy)
 * testing of some kind 
 * deployment scripts i.e. cloudformation, docker
+* deployment to elastic beanstalk
