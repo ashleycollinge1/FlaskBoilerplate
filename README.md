@@ -1,5 +1,13 @@
 # Flask Boilerplate
 
+## Get Started
+```
+python3 -m virtualenv env/
+source env/bin/activate
+pip install -r requirements.txt
+python server.py
+```
+
 Application which sets up the following:
 * Blueprints
 * Dev/Test/Prod configurations
